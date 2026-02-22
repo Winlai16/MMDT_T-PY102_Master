@@ -1,0 +1,1 @@
+This repo includes the assignments and lectures conducted in the PY102: Data Structure course. This course focuses on the organization, storage, and management of data within computer programs. Students will explore fundamental data structures such as lists, stacks, queues, trees, graphs, and hash tables.
